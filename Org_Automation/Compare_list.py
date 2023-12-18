@@ -9,7 +9,7 @@ def file_read():
         for i in list:
             k=i.split("_")
             list2.append(k[0])
-            #v1 / v300
+            #v1 / v2
         #print(list2)
     else:
            print("list is empty")
